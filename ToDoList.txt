@@ -1,0 +1,9 @@
+spoon,$1.99
+spoon,$1.99
+fork,$1.99
+couch,$1300.00
+spoon,$1.99
+spoon,$1.99
+fork,$1.99
+couch,$1300.00
+lamp,$10.99
